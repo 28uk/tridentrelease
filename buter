@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.getvortex.vip/api/t/25ASQ2/s/Trident"))()
